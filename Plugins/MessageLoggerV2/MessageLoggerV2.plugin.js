@@ -1,7 +1,7 @@
 /**
  * @name MessageLoggerV2
  * @version 1.8.21
- * @invite NYvWdN5
+ * @invite NYvWdN5  sadasd
  * @donate https://paypal.me/lighty13
  * @website https://1lighty.github.io/BetterDiscordStuff/?plugin=MessageLoggerV2
  * @source https://github.com/1Lighty/BetterDiscordPlugins/blob/master/Plugins/MessageLoggerV2/MessageLoggerV2.plugin.js
